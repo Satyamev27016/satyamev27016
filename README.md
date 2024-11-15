@@ -27,7 +27,7 @@ I'm a passionate **Full Stack MERN Developer** with a strong interest in buildin
 
 ## 📫 How to Reach Me
 - GitHub: [Satyamev27016](https://github.com/Satyamev27016)
-- LinkedIn: [SATYAMEV SINGH](www.linkedin.com/in/satyamev-singh-537717227) *(Add your LinkedIn profile link here)*
+- LinkedIn: [SATYAMEV SINGH](www.linkedin.com/in/satyamev-singh-537717227)
 
 ## 😄 Pronouns
 - He/Him
